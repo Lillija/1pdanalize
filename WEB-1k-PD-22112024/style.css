@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+form{
+    width: 400px;
+    margin: auto;
+    /* border: 1px solid black; */
+}
+label{
+    display:block;
+}
+input{
+    width:100%
+}
